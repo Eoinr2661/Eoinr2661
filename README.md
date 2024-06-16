@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Eoinr2661
+- 👀 I’m interested in mobile and web development!
+- 🌱 I’m currently learning about Android development, using React Native.
+- 📫 How to reach me ... https://www.linkedin.com/in/eoin-rochford/
