@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning about PostgreSQL, Java, Docker, and building full-stack applications.
-- 🛠️ Currently working on a fitness app project, using Spring Boot, PostgreSQL, and Docker for backend services.
-- 📚 Always eager to learn new technologies and improve my skills in backend development, frontend development and database management.
-- 📫 How to reach me ... https://www.linkedin.com/in/eoin-rochford/
+- 🌱 Currently honing my skills in Java and Spring
+- 🛠️ Working on a fitness app project, using Spring, PostgreSQL, and Docker.
+- 📚 Passionate about learning new technologies and continously improving in backend and frontend development.
+- 📫 Connect with me on LinkedIn: ... https://www.linkedin.com/in/eoin-rochford/
