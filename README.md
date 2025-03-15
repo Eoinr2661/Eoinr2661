@@ -1,4 +1,4 @@
-- 🌱 Currently honing my skills in Java and Spring
-- 🛠️ Working on a fitness app project, using Spring, PostgreSQL, and Docker.
-- 📚 Passionate about learning new technologies and continously improving in backend and frontend development.
+- 🌱 Primarily working on honing my skills in Java and Spring
+- 🛠️ Working on a fitness app project, using Spring, PostgreSQL, with planned frontend implementation using React.
+- 📚 Passionate about learning new technologies and continously improving in both backend and frontend development.
 - 📫 Connect with me on LinkedIn: ... https://www.linkedin.com/in/eoin-rochford/
